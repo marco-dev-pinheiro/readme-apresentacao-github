@@ -53,34 +53,30 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
   <tr>
     <td align="center">
       <a href="https://github.com/marco-dev-pinheiro?tab=repositories" target="_blank">
-        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/projeto.gif" alt="Projetos" width="50"><br>
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/readme-apresentacao-github/main/assets/icons/projeto.gif" alt="Projetos" width="50"><br>
         <b>Projetos</b>
       </a>
     </td>
-
-  <td align="center">
-       <a href="#stack">
-          <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/conhecimento.gif" alt="Stack" width="50"><br>
-          <b>Stack</b>
-        </a>
+    <td align="center">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/readme-apresentacao-github/main/assets/icons/conhecimento.gif" alt="Stack" width="50"><br>
+        <b>Stack</b>
+      </a>
     </td>
-
-  <td align="center">
+    <td align="center">
       <a href="#roadmap">
-        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/caminho.gif" alt="RoadMap" width="50"><br>
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/readme-apresentacao-github/main/assets/icons/caminho.gif" alt="RoadMap" width="50"><br>
         <b>RoadMap</b>
       </a>
     </td>   
-
-  <td align="center">  
+    <td align="center">  
       <a href="#contato">
-        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/contact.gif" alt="Contato" width="50"><br>
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/readme-apresentacao-github/main/assets/icons/contact.gif" alt="Contato" width="50"><br>
         <b>Contato</b>
       </a>
     </td>
   </tr>
 </table>
-
 
 </div>
 
