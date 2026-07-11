@@ -51,36 +51,35 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/marco-dev-pinheiro?tab=repositories" target="_blank">
-      <img src="assets/icons/projeto.gif" alt="Projetos" width="50"><br>
-      <b>Projetos</b>
-</td>
-
- <td align="center">
-     <a href="#stack">
-      <img src="assets/icons/conhecimento.gif" alt="Stack" width="50"><br>
-      <b>Stack</b>
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/projeto.gif" alt="Projetos" width="50"><br>
+        <b>Projetos</b>
       </a>
-</td>
+    </td>
 
- <td align="center">
-    <a href="#roadmap">
-      <img src="assets/icons/caminho.gif" alt="RoadMap" width="50"><br>
-      <b>RoadMap</b>
+    <td align="center">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/conhecimento.gif" alt="Stack" width="50"><br>
+        <b>Stack</b>
       </a>
-  </td>   
+    </td>
 
- <td align="center">  
-     <a href="#contato">
-     <img src="assets/icons/contact.gif" alt="Contato" width="50"><br>
-     <b>Contato</b>
-     </a>
-  </td>
+    <td align="center">
+      <a href="#roadmap">
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/caminho.gif" alt="RoadMap" width="50"><br>
+        <b>RoadMap</b>
+      </a>
+    </td>   
+
+    <td align="center">  
+      <a href="#contato">
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/marco-dev-pinheiro/master/assets/icons/contact.gif" alt="Contato" width="50"><br>
+        <b>Contato</b>
+      </a>
+    </td>
   </tr>
-
 </table>
-
 
 
 </div>
@@ -212,14 +211,8 @@ class A,B,C,D,E,F,G step;
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marco-dev-pinheiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats de marco-dev-pinheiro"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-dev-pinheiro&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Linguagens mais usadas"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=marco-dev-pinheiro&theme=tokyonight&hide_border=true" width="60%" alt="Streak de contribuições"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marco-dev-pinheiro&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marco-dev-pinheiro&theme=tokyonight" width="37%" alt="Linguagens mais usadas"/>
 </div>
 
 
