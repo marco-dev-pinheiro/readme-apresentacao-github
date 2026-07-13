@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09101994,100:1f6feb&height=180&section=header&text=Marco%20Pinheiro&fontSize=42&fontColor=58A6FF&animation=fadeIn&desc=Ciência+da+Computação&descAlignY=62&descSize=18" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09101994,100:1f6feb&height=180&section=header&text=Marco%20Pinheiro&fontType=Segoe%20UI&fontSize=42&fontColor=58A6FF&animation=fadeIn&desc=Ciência+da+Computação&descAlignY=62&descSize=18" width="100%" alt=""/>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br></br>
 
-<a href="https://SEU-PORTFOLIO.com">
+<a href="https://github.com/marco-dev-pinheiro?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=58A6FF" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/marco-pinheiro-34256b373">
@@ -87,11 +87,7 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
 > Estou reorganizando esta seção para exibir cards reais dos projetos.
 > Sugestão de formato para quando os projetos entrarem (gera um card automático a partir do repositório):
 
-```
-<!-- 🔧 EDITAR:  -->
-[![Cerberus](https://github-readme-stats.vercel.app/api/pin/?username=marco-dev-pinheiro&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true)](https://github.com/marco-dev-pinheiro/NOME_DO_REPO)
-```
-
+[![Cerberus Project](https://github.com/marco-dev-pinheiro/Cerberus/blob/main/assets/cerberus_banner.png)](https://github.com/marco-dev-pinheiro/Cerberus)
 Duplique o bloco acima por projeto, lado a lado, para criar uma "vitrine" de cards.
 
 </details>
