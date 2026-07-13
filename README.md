@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=3500&size=2.1&pause=2000&duration=4000&color=58A6FF&center=true&vCenter=true&width=650&lines=Arquitetura+de+Ideias;Python+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Aprender+construindo..." alt="Typing SVG"/>
 
-<br><br>
+<br></br>
 
 <a href="https://SEU-PORTFOLIO.com">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=58A6FF" alt="Portfolio"/>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
-<br><br>
+<br></br>
 
 <img src="https://komarev.com/ghpvc/?username=marco-dev-pinheiro&color=58A6FF&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil"/>
 
@@ -48,31 +48,26 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
 
 <br><br>
 
-
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/marco-dev-pinheiro?tab=repositories" target="_blank">
-        <img src="assets/icons/projeto.gif" alt="Projetos" width="50"><br>
-        <b>Projetos</b>
+      <a href="https://github.com/marco-dev-pinheiro?tab=repositories">
+        <img src="https://img.shields.io/badge/Meus_Projetos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
       </a>
     </td>
     <td align="center">
       <a href="#stack">
-        <img src="assets/icons/conhecimento.gif" alt="Stack" width="50"><br>
-        <b>Stack</b>
+        <img src="https://img.shields.io/badge/Minha_Stack-blue?style=for-the-badge&logo=probot&logoColor=white" alt="Stack">
       </a>
     </td>
     <td align="center">
       <a href="#roadmap">
-        <img src="assets/icons/caminho.gif" alt="RoadMap" width="50"><br>
-        <b>RoadMap</b>
+        <img src="https://img.shields.io/badge/Meu_RoadMap-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="RoadMap">
       </a>
-    </td>   
-    <td align="center">  
+    </td>
+    <td align="center">
       <a href="#contato">
-        <img src="assets/icons/contact.gif" alt="Contato" width="50"><br>
-        <b>Contato</b>
+        <img src="https://img.shields.io/badge/Contato-blue?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contato">
       </a>
     </td>
   </tr>
@@ -80,7 +75,7 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
 
 </div>
 
----
+
 
 <a name="projetos"></a>
 ## 🚀 Projetos em destaque
@@ -171,6 +166,8 @@ class A,B,C,D,E,F,G step;
 <div align="right"><a href="#top">⬆ voltar ao topo</a></div>
 
 ---
+
+<>
 
 
 
