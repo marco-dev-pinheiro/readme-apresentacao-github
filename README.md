@@ -96,7 +96,7 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
     <td align="center">
       <a href="#link-projeto-2">
         <b>Em breve atualização</b><br>
-        <img src="assets\icons\protodotio.svg" alt="Cerberus Project" width="150">
+        <img src="assets/icons/protodotio.svg" alt="Cerberus Project" width="150">
       </a>
     </td>
   </tr>
@@ -183,7 +183,7 @@ class A,B,C,D,E,F,G step;
 
 ## Minhas conquistas 
 
-![Gen dados IA](assets\icons\genia&dados.png) ![Criar assistente IA](assets\icons\assistente-ia.png) ![python-wisher-ia-moldal](assets\icons\python-ia-whisher.png)![aprendizado-maquina](assets\icons\aprendizado-maquina.png)![manipulacao-dados](assets\icons\manipulacao.png)![python-fundamentos](assets\icons\python-fundamentos.png)![python-inicio](assets\icons\python1.png)![engenharia-prompt](assets\icons\engenharia-prompt.png)![llm](assets\icons\llm.png)![ia](assets\icons\ia.png)![neurais](assets\icons\neurais.png)![powerbi](assets\icons\pwb.png)![git](assets\icons\git.png)![portifolio](assets\icons\portifolio.png)![open](assets\icons\open.png)![estudos](assets\icons\estudos.png)![botcamp-sanytander-2025](assets\icons\bot-santander.png)![etl](assets\icons\etl.png)![banco-dados](assets\icons\no-sql.png)![no-sql-2](assets\icons\no-sql-2.png)![logica-computacional](assets\icons\logica.png)![etl-python](assets/icons/elt-python.png)![asw](assets\icons\aws.png)![nuvem](assets\icons\nuvem.png)![excel-pwq](assets\icons\pwq.png)![banco-dados-copilot](assets\icons\copilot.png)
+![Gen dados IA](assets/icons/genia&dados.png) ![Criar assistente IA](assets/icons/assistente-ia.png) ![python-wisher-ia-moldal](assets/icons/python-ia-whisher.png)![aprendizado-maquina](assets/icons/aprendizado-maquina.png)![manipulacao-dados](assets/icons/manipulacao.png)![python-fundamentos](assets/icons/python-fundamentos.png)![python-inicio](assets/icons/python1.png)![engenharia-prompt](assets/icons/engenharia-prompt.png)![llm](assets/icons/llm.png)![ia](assets/icons/ia.png)![neurais](assets/icons/neurais.png)![powerbi](assets/icons/pwb.png)![git](assets/icons/git.png)![portifolio](assets/icons/portifolio.png)![open](assets/icons/open.png)![estudos](assets/icons/estudos.png)![botcamp-sanytander-2025](assets/icons/bot-santander.png)![etl](assets/icons/etl.png)![banco-dados](assets/icons/no-sql.png)![no-sql-2](assets/icons/no-sql-2.png)![logica-computacional](assets/icons/logica.png)![etl-python](assets/icons/elt-python.png)![asw](assets/icons/aws.png)![nuvem](assets/icons/nuvem.png)![excel-pwq](assets/icons/pwq.png)![banco-dados-copilot](assets/icons/copilot.png)
 
 
 </details> 
