@@ -84,11 +84,25 @@ Cursando Ciência da Computação, tenho como stack principal Python. Gosto de e
 <summary><b>🚧 Seção em atualização — clique para expandir</b></summary>
 <br>
 
-> Estou reorganizando esta seção para exibir cards reais dos projetos.
-> Sugestão de formato para quando os projetos entrarem (gera um card automático a partir do repositório):
 
-[![Cerberus Project](https://github.com/marco-dev-pinheiro/Cerberus/blob/main/assets/cerberus_banner.png)](https://github.com/marco-dev-pinheiro/Cerberus)
-Duplique o bloco acima por projeto, lado a lado, para criar uma "vitrine" de cards.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/marco-dev-pinheiro/Cerberus">
+        <b>Cerberus</b><br>
+        <img src="https://raw.githubusercontent.com/marco-dev-pinheiro/Cerberus/main/assets/cerberus_banner.png" alt="Cerberus Project" width="350">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#link-projeto-2">
+        <b>Em breve atualização</b><br>
+        <img src="assets\icons\protodotio.svg" alt="Cerberus Project" width="150">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 </details>
 
