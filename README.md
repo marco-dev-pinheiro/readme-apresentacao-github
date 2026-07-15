@@ -131,8 +131,8 @@ class A,B,C,D,E,F,G step;
 
 ---
 
-<a name="stack"></a>
-## 🛠 Stack
+<a name="#stack"></a>
+## 🛠 stack
 
 <div align="center">
 
@@ -157,21 +157,42 @@ class A,B,C,D,E,F,G step;
 
 ---
 
-**🚧 Atualizando...**
+
 
 <a name="roadmap"></a>
 ## 📈 Roadmap de progresso
+### 📊 Nível de Habilidade
 
-| Tecnologia | Progresso |
-|---|---|
-| 🐍 Python | ![-%](https://progress-bar.dev/90?scale=100&width=180&color=58A6FF) |
-| 🔧 Git | ![-%](https://progress-bar.dev/85?scale=100&width=180&color=58A6FF) |
-| 🗄 SQL | ![-%](https://progress-bar.dev/55?scale=100&width=180&color=58A6FF) |
-| ☁️ Cloud | ![-%](https://progress-bar.dev/30?scale=100&width=180&color=58A6FF) |
-| 🤖 Machine Learning | ![0%](https://progress-bar.dev/60?scale=100&width=180&color=58A6FF) |
-| 🧠 LLMs | ![=0%](https://progress-bar.dev/70?scale=100&width=180&color=58A6FF) |
-| 🌱 Open Source | ![-0%](https://progress-bar.dev/30?scale=100&width=180&color=58A6FF) |
-| 🇺🇸 Inglês | ![-%](https://progress-bar.dev/40?scale=100&width=180&color=58A6FF) |
+<table>
+  <tr>
+    <td width="150">🐍 <b>Python</b> (53%)</td>
+    <td width="400"><img src="https://geps.dev/progress/53?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" alt="53%" /></td>
+  </tr>
+  <tr>
+    <td>🧠 <b>LLMs</b> (65%)</td>
+    <td><img src="https://geps.dev/progress/65?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" alt="65%" /></td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>SQL</b> (50%)</td>
+    <td><img src="https://geps.dev/progress/50?dangerColor=CC0000&warningColor=CC0000&successColor=CC0000" alt="50%" /></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Machine Learning</b> (40%)</td>
+    <td><img src="https://geps.dev/progress/40?dangerColor=FF6F00&warningColor=FF6F00&successColor=FF6F00" alt="40%" /></td>
+  </tr>
+  <tr>
+    <td>🔧 <b>Git</b> (35%)</td>
+    <td><img src="https://geps.dev/progress/35?dangerColor=F05032&warningColor=F05032&successColor=F05032" alt="35%" /></td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Open Source</b> (35%)</td>
+    <td><img src="https://geps.dev/progress/35?dangerColor=008000&warningColor=008000&successColor=008000" alt="35%" /></td>
+  </tr>
+  <tr>
+    <td>☁️ <b>Cloud</b> (20%)</td>
+    <td><img src="https://geps.dev/progress/20?dangerColor=0089D6&warningColor=0089D6&successColor=0089D6" alt="20%" /></td>
+  </tr>
+</table>  
 
 <div align="right"><a href="#top">⬆ voltar ao topo</a></div>
 
@@ -202,6 +223,8 @@ class A,B,C,D,E,F,G step;
 - 🐍 Python Avançado
 
 <div align="right"><a href="#top">⬆ voltar ao topo</a></div>
+
+---
 
 ---
 
